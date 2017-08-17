@@ -91,16 +91,6 @@ a:focus {
   background-color: black;
 }
 
-.trailer {
-  width: 20%;
-}
-
-@media (min-width: 900px) {
-  .trailer {
-    width: 100%;
-  }
-}
-
 
 .intro {
   display: table;
