@@ -89,7 +89,16 @@ a:focus {
 
 .trailer-section {
   background-color: black;
+  width: 60%;
+  
 }
+
+@media (min-width: 900px) {
+  .trailer-section {
+    width: 100%;
+  }
+}
+
 
 .intro {
   display: table;
